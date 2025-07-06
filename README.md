@@ -1,8 +1,9 @@
-
+# Justin Luo's C++ AI and Feature Selection Projects
+Capstone project for UCR's CS170 (Introduction to Artificial Intelligence) Winter 2021 taught by Dr. Eamonn Keogh.
 ## 1. 8-Puzzle Solver
 
 An interactive solver for the classic 8-puzzle problem, using multiple search algorithms:
-Capstone project for UCR's CS170 (Introduction to Artificial Intelligence) Winter 2021 taught by Dr. Eamonn Keogh.
+
 
 - **Algorithms Supported:**  
   - Uniform Cost Search  
