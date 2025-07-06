@@ -29,4 +29,5 @@ Implements Forward Selection and Backward Elimination to find the best feature s
   - Displays progress of feature subsets tested and their accuracies.  
   - Warns about potential local maxima during search.
 
-
+- **Usage:**  
+  Compile and run the `feature_selection.cpp` file. Provide dataset filename when prompted and select algorithm.
